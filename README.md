@@ -1,6 +1,6 @@
-# JavaScript-Fundamental
+# NodeJS-Fundamental
 
-This repository just for practice to learn about Web Development.
+This repository just for practice to learn about server side using node.
 
 
 ```bash
